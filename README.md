@@ -1,11 +1,4 @@
-admin: 
-      username: "admin",
-      password: "admin123"
-    
- user:
-      username: "user",
-      password: "user123",
-#admin
+
 
 ![c4839cb7236eef82ffdb16cd238be5440f15deec](https://github.com/niteshraj78/Bynry_services_Geoprofiler_Explorer/assets/127648056/49d4d432-bf69-44f3-92b9-2a2332bd153d)
 ![1fc2cbde9ac0a1e8dc13eb9f7e53fd46b6d930db](https://github.com/niteshraj78/Bynry_services_Geoprofiler_Explorer/assets/127648056/639fa4ff-158c-4fcf-a4cc-52bfc897f874)
